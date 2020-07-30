@@ -1,0 +1,3 @@
+Insatll checkmk agent on the server you want to monitor
+Go to hostsin chekmk dashboard > new host > enter name, agent type, ip address
+moniroting will be cnfigured.
